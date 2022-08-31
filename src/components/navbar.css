@@ -1,0 +1,21 @@
+.navbar{
+background-color: #1c1832;
+color: white;
+display: flex;
+padding: 20px;
+justify-content: space-between;
+align-items: center;
+width: 50vw;
+border-radius: 20px;
+
+}
+.nav-left img{
+    width: 80px;
+    border-radius: 20px;
+}
+.nav-right{
+    width: 20vw;
+    display: flex;
+    justify-content: space-evenly;
+    
+}

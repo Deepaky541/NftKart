@@ -1,0 +1,94 @@
+{
+  "nft": [
+    {
+      "id": 1,
+      "url": "https://axiesreact.surielementor.com/static/media/card-item-2.bfe0307457e2f66fb932.jpg",
+      "name": "CyberPrimal 042 LAN",
+      "Cart_quantity": 0,
+      "owned_by": "Freddie Carpenter",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-4.cbb2f9fb25c1e375d958.jpg",
+      "price": 1.5
+    },
+    {
+      "id": 2,
+      "url": "https://axiesreact.surielementor.com/static/media/card-item-7.7f4ad6d33deea16f00f9.jpg",
+      "name": "Crypto Egg Stamp",
+      "Cart_quantity": 0,
+      "owned_by": "Tyler Covington",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-3.c03860ca1e2872296499.jpg",
+      "price": 4.89
+    },
+    {
+      "id": 3,
+      "url": "https://axiesreact.surielementor.com/static/media/image-box-6.52d8a8ffbd8d4727e300.jpg",
+      "name": "Cyber Doberman",
+      "Cart_quantity": 0,
+      "owned_by": "Freddie Carpenter",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-4.cbb2f9fb25c1e375d958.jpg",
+      "price": 7.6
+    },
+    {
+      "id": 4,
+      "url": "https://axiesreact.surielementor.com/static/media/card-item-4.8b28f05584c4388a3162.jpg",
+      "name": "Space Babe - Night 2/25",
+      "Cart_quantity": 0,
+      "owned_by": "Trista Francis",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-2.e101dc63363945410d54.jpg",
+      "price": 3.44
+    },
+    {
+      "id": 5,
+      "url": "https://axiesreact.surielementor.com/static/media/card-item-9.eee24c93e6039eff9c41.jpg",
+      "name": "Sir. Lion Swag",
+      "Cart_quantity": 0,
+      "owned_by": "Trista Francis",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-1.71a23be871d509a23d2d.jpg",
+      "price": 4.44
+    },
+    {
+      "id": 6,
+      "url": "https://axiesreact.surielementor.com/static/media/card-item-3.f5958cc952bce34d7810.jpg",
+      "name": "The RenaiXance Rising",
+      "Cart_quantity": 0,
+      "owned_by": "SalvadorDali",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-4.cbb2f9fb25c1e375d958.jpg",
+      "price": 6.2
+    },
+    {
+      "id": 7,
+      "url": "https://axiesreact.surielementor.com/static/media/card-item8.7eabfc1f4f02ba299fe9.jpg",
+      "name": "CyberPrimal 042 LAN",
+      "Cart_quantity": 0,
+      "owned_by": "SalvadorDali",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-2.e101dc63363945410d54.jpg",
+      "price": 1.9
+    },
+    {
+      "id": 8,
+      "url": "https://axiesreact.surielementor.com/static/media/image-box-11.8bb5204cf47ba79610d0.jpg",
+      "name": "Living Vase By Lanz",
+      "Cart_quantity": 0,
+      "owned_by": "Freddie Carpenter",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-3.c03860ca1e2872296499.jpg",
+      "price": 7.4
+    },
+    {
+      "id": 9,
+      "url": "https://axiesreact.surielementor.com/static/media/card-item-11.b852cb3ac79476a86817.jpg",
+      "name": "042 LAN",
+      "Cart_quantity": 0,
+      "owned_by": "Freddie Carpenter",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-4.cbb2f9fb25c1e375d958.jpg",
+      "price": 1
+    },
+    {
+      "id": 10,
+      "url": "https://axiesreact.surielementor.com/static/media/image-box-10.f3abb5b73887d54521fb.jpg",
+      "name": "CyberPrimal",
+      "Cart_quantity": 0,
+      "owned_by": "Freddie Carpenter",
+      "owner_pic": "https://axiesreact.surielementor.com/static/media/avt-4.cbb2f9fb25c1e375d958.jpg",
+      "price": 4.9
+    }
+  ]
+}

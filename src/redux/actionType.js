@@ -1,0 +1,7 @@
+export const GET_NFT_REQUEST = "GET_NFT_REQUEST";
+export const GET_NFT_SUCCESS = "GET_NFT_SUCCESS";
+export const GET_NFT_FAILURE = "GET_NFT_FAILURE";
+
+
+
+

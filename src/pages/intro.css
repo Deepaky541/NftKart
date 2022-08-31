@@ -1,0 +1,20 @@
+.dota-intro img{
+    width: 100vw;
+    position: relative;
+}
+.dota-intro h1{
+    color:white;
+    position: absolute;
+    top:400px;
+    right: 180px;
+    text-align: start;
+    max-width: 400px;
+    font-size: 70px
+}
+.nav{
+    position: fixed;
+    padding: 20px;
+    border-radius: 20px;
+    left: 20vw;
+    z-index: 100;
+}

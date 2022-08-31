@@ -1,0 +1,70 @@
+.cards{
+  width: 300px;
+  background-color: #221c3f;
+  border-radius: 30px;
+ padding-top: 30px;
+ padding-left: 10px;
+ padding-right: 10px;
+ padding-bottom: 30px;
+ box-shadow: 5px 5px 15px;
+ color:#1c1832
+}
+.cards img{
+    border-radius: 30px;
+    width: 250px;
+}
+.name{
+    margin-top: 20px;
+    text-align:start;
+    margin-left: 28px;
+    font-weight: bolder;
+}
+.owner-info img{
+    width:40px;
+    height: 40px;
+}
+.owner-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: fit-content;
+    margin-left: 25px;
+}
+.owned-by :nth-child(2){
+    font-size: xx-small;
+    font-weight: bolder;
+}
+.owned-by :nth-child(1){
+    font-size: x-small;
+}
+.owned-by{
+    margin-left:10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: start;
+}
+.button-price{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.button-price p{
+    display: flex;
+    font-weight: bolder;
+    align-items: center;
+}
+
+.button-price button{
+   background-color: #1c1832;
+   border: 1px solid white;
+   padding: 20px 30px 20px 30px;
+   border-radius: 20px;
+   font-weight: bolder;
+   cursor: pointer;
+}
+.button-price button:hover{
+    background-color: #2a206d;
+    color: purple;
+    border: 1px solid purple;
+}
